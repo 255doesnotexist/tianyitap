@@ -1597,9 +1597,18 @@ var MainManager = function() {
         var selectSinger = $("#sl_singer").val();
         console.log("选中了歌姬：",selectSinger);
         // 不太会js，我直接硬编码了应该没人会骂我（逃）
-        if(selectSinger=="luotianyi") load_json="data/main/main.json"; 
-        else if(selectSinger=="miku") load_json="data/miku/miku.json"; 
-        else if(selectSinger=="warma") load_json="data/warma/warma.json"; 
+        if(selectSinger=="luotianyi"){
+            load_json="data/main/main.json";
+            $("#tianyi_tap").text('Tianyitap');
+        } 
+        else if(selectSinger=="miku"){
+            load_json="data/miku/miku.json";
+            $("#tianyi_tap").text('Mikutap');
+        } 
+        else if(selectSinger=="warma"){
+            load_json="data/warma/warma.json";
+            $("#tianyi_tap").text('Warmatap');
+        } 
         R.init();
     });
 },
