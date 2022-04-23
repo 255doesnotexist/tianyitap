@@ -25,6 +25,7 @@
             topPosition: false,  //选择列表项在列表框上部显示,默认在下边显示
             speed: 100,   //选择列表框显示动画速度（毫秒）
             onChange: function () {
+                $('#sl_singer').change();
             }  //自定义模拟选择列表项change事件
         };
  
@@ -172,7 +173,7 @@
                 selectedIndex = that.getSelectedIndex($this),
                 selectedValue = that.getSelectedOptionValue($this),
                 selectLength = that.getOptionCount($this),
-                selectHTML = '<div id="super-' + selectID + '" class="select-wrapper ' + selectClassName + '"><input id="' + selectID + '" type="hidden" name="' + selectName + '" value="' + selectedValue + '" /><i class="icon select-down"></i><input type="button" class="select-button" value="' + selectedOptionText + '" /><div class="select-list"><ul>',
+                selectHTML = '<div id="super-' + selectID + '" class="select-wrapper ' + selectClassName + '"><input id="' + selectID + '" type="hidden" name="' + selectName + '" value="' + selectedValue + '" /><i class="icon select-down"></i><input id="sl_btn" type="button" class="select-button" value="' + selectedOptionText + '" /><div class="select-list"><ul>',
                 selectListHTML = '';
  
             for (var i = 0; i < selectLength; i++) {

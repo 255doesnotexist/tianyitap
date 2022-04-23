@@ -1593,7 +1593,7 @@ var MainManager = function() {
     aidn.util.webaudio ? ($("#ng").css("display", "none"), $(".ok").css("display", "block"), E && $("#scene_main .attention").html("TOUCH &amp; SWIPE!"), y || $("#scene_top .attention").text("* 调大音量，坐和放宽吧~（误")) : ($("#ng").css("display", "block"), $(".ok").css("display", "none"), y || $("#ng .atten").html("抱歉，<br>你的设备或浏览器不支持此网站所需的部分功能。")),
     PIXI.utils._saidHello = !0,
     aidn.window.resize(a);
-    $("#sl_singer").change(function(){
+    $("#sl_singer").on("change input propertychange click",function(){
         var selectSinger = $("#sl_singer").val();
         console.log("选中了歌姬：",selectSinger);
         // 不太会js，我直接硬编码了应该没人会骂我（逃）
