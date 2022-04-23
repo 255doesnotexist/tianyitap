@@ -1590,7 +1590,7 @@ var MainManager = function() {
     T = "off" == aidn.util.getCookie("bt");
     n(),
     o(),
-    aidn.util.webaudio ? ($("#ng").css("display", "none"), $(".ok").css("display", "block"), E && $("#scene_main .attention").html("TOUCH &amp; SWIPE!"), y || $("#scene_top .attention").text("* 调大音量，坐和放宽吧~（误")) : ($("#ng").css("display", "block"), $(".ok").css("display", "none"), y || $("#ng .atten").html("Sorry,<br>your device or browser doesn't support this site.")),
+    aidn.util.webaudio ? ($("#ng").css("display", "none"), $(".ok").css("display", "block"), E && $("#scene_main .attention").html("TOUCH &amp; SWIPE!"), y || $("#scene_top .attention").text("* 调大音量，坐和放宽吧~（误")) : ($("#ng").css("display", "block"), $(".ok").css("display", "none"), y || $("#ng .atten").html("抱歉，<br>你的设备或浏览器不支持此网站所需的部分功能。")),
     PIXI.utils._saidHello = !0,
     aidn.window.resize(a);
     $("#sl_singer").change(function(){
