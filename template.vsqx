@@ -7,9 +7,9 @@
 	<vVoiceTable>
 		<vVoice>
 			<bs>4</bs>
-			<pc>4</pc>
-			<id><![CDATA[BK8H76TAEHXWSKDB]]></id>
-			<name><![CDATA[Tianyi_Meng/Ning]]></name>
+			<pc>1</pc>
+			<id><![CDATA[BEY8C2TZLDXHZECF]]></id>
+			<name><![CDATA[XinhuaV4CHN]]></name>
 			<vPrm>
 				<bre>0</bre>
 				<bri>0</bri>
@@ -17,15 +17,6 @@
 				<gen>0</gen>
 				<ope>0</ope>
 			</vPrm>
-			<id2><![CDATA[BL59A7M2HKSKXLD7]]></id2>
-			<vPrm2>
-				<bre>0</bre>
-				<bri>0</bri>
-				<cle>0</cle>
-				<gen>0</gen>
-				<ope>0</ope>
-				<vol>0</vol>
-			</vPrm2>
 		</vVoice>
 	</vVoiceTable>
 	<mixer>
@@ -36,7 +27,34 @@
 		</masterUnit>
 		<vsUnit>
 			<tNo>0</tNo>
-			<iGin>0</iGin>
+			<iGin>12</iGin>
+			<plug>
+				<id><![CDATA[vy26]]></id>
+				<name><![CDATA[V3Comp]]></name>
+				<sdkVer>2</sdkVer>
+				<nPrm>2</nPrm>
+				<vPrm>
+					<v>10563103</v>
+					<v>5592517</v>
+				</vPrm>
+				<presetNo>0</presetNo>
+				<enable>1</enable>
+				<bypass>0</bypass>
+			</plug>
+			<plug>
+				<id><![CDATA[vx21]]></id>
+				<name><![CDATA[V3Reverb]]></name>
+				<sdkVer>2</sdkVer>
+				<nPrm>3</nPrm>
+				<vPrm>
+					<v>0</v>
+					<v>3355443</v>
+					<v>5033165</v>
+				</vPrm>
+				<presetNo>0</presetNo>
+				<enable>1</enable>
+				<bypass>0</bypass>
+			</plug>
 			<sLvl>-898</sLvl>
 			<sEnable>0</sEnable>
 			<m>0</m>
@@ -66,7 +84,7 @@
 		<resolution>480</resolution>
 		<preMeasure>4</preMeasure>
 		<timeSig><m>0</m><nu>4</nu><de>4</de></timeSig>
-		<tempo><t>0</t><v>12000</v></tempo>
+		<tempo><t>0</t><v>16000</v></tempo>
 	</masterTrack>
 	<vsTrack>
 		<tNo>0</tNo>
@@ -94,7 +112,7 @@
 			<singer>
 				<t>0</t>
 				<bs>4</bs>
-				<pc>4</pc>
+				<pc>1</pc>
 			</singer>
 			<cc><t>0</t><v id="X">65</v></cc>
 			<note>
@@ -115,10 +133,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -165,10 +183,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -215,10 +233,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -265,10 +283,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -315,10 +333,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -365,10 +383,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -415,10 +433,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -465,10 +483,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -515,10 +533,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -565,10 +583,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -615,10 +633,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -665,10 +683,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -715,10 +733,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -765,10 +783,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -815,10 +833,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -865,10 +883,10 @@
 					<v id="vibLen">63</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>24321</p><v>64</v></cc>
+						<cc><p>24302</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>24321</p><v>50</v></cc>
+						<cc><p>24302</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -906,6 +924,6 @@
 	</stTrack>
 	<aux>
 		<id><![CDATA[AUX_VST_HOST_CHUNK_INFO]]></id>
-		<content><![CDATA[VlNDSwAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]]></content>
+		<content><![CDATA[VlNDSwIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWSU5G2AAAAAAAAAAAAAAAVgAzAEMAbwBtAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAIAAAAAAAAAdgB5ADIANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERJU1BQAAAAAQAAADUBAACvAQAAWAEAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDREFUCAAAAB8uoQDFVVUAVklORtgAAAAAAAAAAQAAAFYAMwBSAGUAdgBlAHIAYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAMAAAACAAAAAAAAAHYAeAAyADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABESVNQUAAAAAEAAAC0AQAADwIAAFgBAACqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ0RBVAwAAAAAAAAAMzMzAM3MTAA=]]></content>
 	</aux>
 </vsq4>
