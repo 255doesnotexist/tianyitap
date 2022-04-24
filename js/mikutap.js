@@ -1611,6 +1611,11 @@ var MainManager = function() {
         } 
         R.init();
     });
+    $("#custom_json_input").on("change input propertychange click",function(){
+        load_json=window.URL.createObjectURL($("#custom_json_input")[0].files[0]);
+        $("#tianyi_tap").text('Customtap');
+        R.init();
+    });
 },
 WebAudioManager = function() {
     function i() {
