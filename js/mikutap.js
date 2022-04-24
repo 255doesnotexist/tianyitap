@@ -1609,6 +1609,10 @@ var MainManager = function() {
             load_json="data/warma/warma.json";
             $("#tianyi_tap").text('Warmatap');
         } 
+        else if(selectSinger=="xinhua"){
+            load_json="data/xinhua/xinhua.json";
+            $("#tianyi_tap").text('Xinhuatap');
+        } 
         R.init();
     });
     $("#custom_json_input").on("change input propertychange click",function(){
