@@ -1613,6 +1613,10 @@ var MainManager = function() {
             load_json="data/xinhua/xinhua.json";
             $("#tianyi_tap").text('Xinhuatap');
         } 
+        else if(selectSinger=="stardust"){
+            load_json="data/stardust/stardust.json";
+            $("#tianyi_tap").text('Stardusttap');
+        } 
         R.init();
     });
     $("#custom_json_input").on("change input propertychange click",function(){
