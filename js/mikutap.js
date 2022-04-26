@@ -88,9 +88,18 @@ var MainManager = function() {
     var p = !1;
     1 == aidn.util.getQuery().auto && (p = !0),
     aidn.util.needExpandArea(!0);
+
+    var isFullscreen=false;
+
     var B = aidn.util.enabledFullscreen();
     B && ($("#bt_fs").css("display", "block"), $("#bt_fs").click(function(n) {
-        aidn.util.fullscreen()
+        isFullscreen=!isFullscreen;
+        aidn.util.fullscreen();
+        if(isFullscreen){
+            $("#bt_fs").text("☑全屏显示");
+        }else{
+            $("#bt_fs").text("□全屏显示");
+        }
     })),
     $("#bt_start a").click(function(n) {
         $("#scene_top").stop().fadeOut(200, "linear"),
@@ -1613,9 +1622,9 @@ var MainManager = function() {
             load_json="data/xinhua/xinhua.json";
             $("#tianyi_tap").text('Xinhuatap');
         } 
-        else if(selectSinger=="stardust"){
-            load_json="data/stardust/stardust.json";
-            $("#tianyi_tap").text('Stardusttap');
+        else if(selectSinger=="stardust_infinity"){
+            load_json="data/stardust/stardust_infinity.json";
+            $("#tianyi_tap").text('Stardust Infinity Tap');
         } 
         R.init();
     });
