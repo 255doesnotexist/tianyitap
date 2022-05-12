@@ -58,7 +58,7 @@
 				<vPrm>
 					<v>0</v>
 					<v>3355443</v>
-					<v>4949279</v>
+					<v>5033165</v>
 				</vPrm>
 				<presetNo>0</presetNo>
 				<enable>1</enable>
@@ -123,15 +123,11 @@
 				<bs>4</bs>
 				<pc>4</pc>
 			</singer>
-			<cc><t>0</t><v id="B">9</v></cc>
-			<cc><t>0</t><v id="R">119</v></cc>
 			<cc><t>0</t><v id="X">65</v></cc>
-			<cc><t>0</t><v id="W">6</v></cc>
-			<cc><t>30</t><v id="B">10</v></cc>
 			<note>
 				<t>0</t>
 				<dur>240</dur>
-				<n>65</n>
+				<n>53</n>
 				<v>64</v>
 				<y><![CDATA[mo]]></y>
 				<p><![CDATA[m o]]></p>
@@ -156,7 +152,7 @@
 			<note>
 				<t>960</t>
 				<dur>240</dur>
-				<n>63</n>
+				<n>51</n>
 				<v>64</v>
 				<y><![CDATA[ku]]></y>
 				<p><![CDATA[k_h u]]></p>
@@ -181,7 +177,7 @@
 			<note>
 				<t>1920</t>
 				<dur>240</dur>
-				<n>66</n>
+				<n>54</n>
 				<v>64</v>
 				<y><![CDATA[la]]></y>
 				<p><![CDATA[l a]]></p>
@@ -231,7 +227,7 @@
 			<note>
 				<t>3840</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[ma]]></y>
 				<p><![CDATA[m a]]></p>
@@ -256,7 +252,7 @@
 			<note>
 				<t>4800</t>
 				<dur>240</dur>
-				<n>75</n>
+				<n>63</n>
 				<v>64</v>
 				<y><![CDATA[ye]]></y>
 				<p><![CDATA[iE_r]]></p>
@@ -281,7 +277,7 @@
 			<note>
 				<t>5760</t>
 				<dur>240</dur>
-				<n>77</n>
+				<n>65</n>
 				<v>64</v>
 				<y><![CDATA[die]]></y>
 				<p><![CDATA[t iE_r]]></p>
@@ -331,7 +327,7 @@
 			<note>
 				<t>7680</t>
 				<dur>240</dur>
-				<n>75</n>
+				<n>63</n>
 				<v>64</v>
 				<y><![CDATA[lie]]></y>
 				<p><![CDATA[l iE_r]]></p>
@@ -381,7 +377,7 @@
 			<note>
 				<t>9600</t>
 				<dur>240</dur>
-				<n>65</n>
+				<n>53</n>
 				<v>64</v>
 				<y><![CDATA[sa]]></y>
 				<p><![CDATA[s a]]></p>
@@ -431,7 +427,7 @@
 			<note>
 				<t>11520</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[dou]]></y>
 				<p><![CDATA[t @U]]></p>
@@ -481,7 +477,7 @@
 			<note>
 				<t>13440</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[die]]></y>
 				<p><![CDATA[t iE_r]]></p>
@@ -556,7 +552,7 @@
 			<note>
 				<t>16320</t>
 				<dur>240</dur>
-				<n>73</n>
+				<n>61</n>
 				<v>64</v>
 				<y><![CDATA[ya]]></y>
 				<p><![CDATA[ia]]></p>
@@ -606,7 +602,7 @@
 			<note>
 				<t>18240</t>
 				<dur>240</dur>
-				<n>77</n>
+				<n>65</n>
 				<v>64</v>
 				<y><![CDATA[die]]></y>
 				<p><![CDATA[t iE_r]]></p>
@@ -631,7 +627,7 @@
 			<note>
 				<t>19200</t>
 				<dur>240</dur>
-				<n>84</n>
+				<n>72</n>
 				<v>64</v>
 				<y><![CDATA[ha]]></y>
 				<p><![CDATA[x a]]></p>
@@ -656,7 +652,7 @@
 			<note>
 				<t>20160</t>
 				<dur>240</dur>
-				<n>73</n>
+				<n>61</n>
 				<v>64</v>
 				<y><![CDATA[huo]]></y>
 				<p><![CDATA[x uo]]></p>
@@ -681,7 +677,7 @@
 			<note>
 				<t>21120</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[a]]></y>
 				<p><![CDATA[a]]></p>
@@ -706,7 +702,7 @@
 			<note>
 				<t>22080</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[ga]]></y>
 				<p><![CDATA[k a]]></p>
@@ -731,7 +727,7 @@
 			<note>
 				<t>23040</t>
 				<dur>240</dur>
-				<n>80</n>
+				<n>68</n>
 				<v>64</v>
 				<y><![CDATA[zi]]></y>
 				<p><![CDATA[ts i\]]></p>
@@ -781,7 +777,7 @@
 			<note>
 				<t>24960</t>
 				<dur>240</dur>
-				<n>82</n>
+				<n>70</n>
 				<v>64</v>
 				<y><![CDATA[die]]></y>
 				<p><![CDATA[t iE_r]]></p>
@@ -806,7 +802,7 @@
 			<note>
 				<t>25920</t>
 				<dur>240</dur>
-				<n>61</n>
+				<n>49</n>
 				<v>64</v>
 				<y><![CDATA[mo]]></y>
 				<p><![CDATA[m o]]></p>
@@ -831,7 +827,7 @@
 			<note>
 				<t>26880</t>
 				<dur>240</dur>
-				<n>75</n>
+				<n>63</n>
 				<v>64</v>
 				<y><![CDATA[suo]]></y>
 				<p><![CDATA[s uo]]></p>
@@ -881,7 +877,7 @@
 			<note>
 				<t>28800</t>
 				<dur>240</dur>
-				<n>77</n>
+				<n>65</n>
 				<v>64</v>
 				<y><![CDATA[da]]></y>
 				<p><![CDATA[t a]]></p>
@@ -906,7 +902,7 @@
 			<note>
 				<t>29760</t>
 				<dur>240</dur>
-				<n>80</n>
+				<n>68</n>
 				<v>64</v>
 				<y><![CDATA[na]]></y>
 				<p><![CDATA[n a]]></p>
@@ -937,6 +933,6 @@
 	</stTrack>
 	<aux>
 		<id><![CDATA[AUX_VST_HOST_CHUNK_INFO]]></id>
-		<content><![CDATA[VlNDSwIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWSU5G2AAAAAAAAAAAAAAAVgAzAEMAbwBtAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAIAAAAAAAAAdgB5ADIANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERJU1BQAAAAAAAAADUBAACvAQAAWAEAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDREFUCAAAAB8uoQDFVVUAVklORtgAAAAAAAAAAQAAAFYAMwBSAGUAdgBlAHIAYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAMAAAACAAAAAAAAAHYAeAAyADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABESVNQUAAAAAAAAACgAgAAngEAAFgBAACqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ0RBVAwAAAAAAAAAMzMzAB+FSwA=]]></content>
+		<content><![CDATA[VlNDSwIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWSU5G2AAAAAAAAAAAAAAAVgAzAEMAbwBtAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAIAAAAAAAAAdgB5ADIANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERJU1BQAAAAAQAAADUBAACvAQAAWAEAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDREFUCAAAAB8uoQDFVVUAVklORtgAAAAAAAAAAQAAAFYAMwBSAGUAdgBlAHIAYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAMAAAACAAAAAAAAAHYAeAAyADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABESVNQUAAAAAEAAAC0AQAADwIAAFgBAACqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ0RBVAwAAAAAAAAAMzMzAM3MTAA=]]></content>
 	</aux>
 </vsq4>
