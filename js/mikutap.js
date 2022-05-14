@@ -1626,6 +1626,10 @@ var MainManager = function() {
             load_json="data/stardust/stardust_infinity.json";
             $("#tianyi_tap").text('Stardust Infinity Tap');
         } 
+        else if(selectSinger=="fallacy"){
+            load_json="data/fallacy/fallacy.json";
+            $("#tianyi_tap").text('FallacyTap');
+        } 
         R.init();
     });
     $("#custom_json_input").on("change input propertychange click",function(){
