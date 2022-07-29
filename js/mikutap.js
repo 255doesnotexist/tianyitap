@@ -1630,6 +1630,10 @@ var MainManager = function() {
             load_json="data/fallacy/fallacy.json";
             $("#tianyi_tap").text('FallacyTap');
         } 
+        else if(selectSinger=="kagamine_len"){
+            load_json="data/kagamine/len.json";
+            $("#tianyi_tap").text('Kagamine Len Tap');
+        } 
         R.init();
     });
     $("#custom_json_input").on("change input propertychange click",function(){
