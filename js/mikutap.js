@@ -1634,6 +1634,10 @@ var MainManager = function() {
             load_json="data/kagamine/len.json";
             $("#tianyi_tap").text('Kagamine Len Tap');
         } 
+        else if(selectSinger=="kagamine_rin"){
+            load_json="data/kagamine/rin.json";
+            $("#tianyi_tap").text('Kagamine Rin Tap');
+        } 
         R.init();
     });
     $("#custom_json_input").on("change input propertychange click",function(){
